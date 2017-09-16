@@ -1,2 +1,2 @@
-# Early Stopping
-This repo will contain a baby implementation of early stopping regularization, using tensorflow.
+# Deep Learning Utils
+This repo will contain implementations of various deep learning tools. 
